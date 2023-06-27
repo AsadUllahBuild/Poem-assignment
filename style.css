@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+
+
+.container{
+    
+    text-align: center;
+    padding: 0px;
+    
+    
+}
+.navbar{
+    
+    color: azure;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: blueviolet;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+    
+    
+    
+}
+.navbar:hover{
+    color: red;
+    cursor: pointer;
+}
+a{
+    cursor: pointer;
+}
+li{
+    display: inline;
+    padding: 50px;
+    color: white;
+    
+    
+}
+
+h1{
+    margin-top: 50px;
+    
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+}
+h1:first-letter{
+    color: greenyellow;
+    font-size: 120px;
+}
+.poem1{
+    /* font-family: 'Luckiest Guy'; */
+    color: aqua;
+    font-family: 'Maiden Orange', cursive;
+    font-size: 120px;
+}
+.poem1:first-letter{
+    color: greenyellow;
+    font-size: 120px;
+    font-family: 'Maiden Orange', cursive;
+}
+.poem2{
+    /* font-family: 'Neuton', serif; */
+    color: rgb(119, 62, 21);
+    font-size: 120px;
+    font-family: 'Lakki Reddy', cursive;
+}
+.poem2:first-letter{
+    color: yellow;
+    font-size: 120px;
+    
+}
+.poem3{
+    /* font-family: 'Satisfy'; */
+    color: rgb(255, 0, 0);
+    font-family: 'Snippet', sans-serif;
+    font-size: 120px;
+
+}
+.poem3:first-letter{
+    color: rgb(0, 255, 0);
+    font-size: 120px;
+}
+.poem4{
+    /* font-family: 'Pacifico'; */
+    color: rgb(255, 0, 255);
+    font-family: 'Gluten', cursive;
+    font-size: 120px;
+}
+.poem4:first-letter{
+    color: rgb(68, 0, 255);
+    font-size: 120px;
+    font-family: 'Lakki Reddy', cursive;
+}
+.poem5{
+    /* font-family: 'PinkChicken'; */
+    color: rgb(0, 255, 42);
+    font-family: 'Kumar One', cursive;
+    font-size: 120px;
+
+}
+.poem5:first-letter{
+    color: rgb(0, 247, 255);
+    font-size: 120px;
+    font-family: 'Gluten', cursive;
+}
+.para{
+    
+    font-family: 'Poppins';
+    font-weight: bold;
+    color: teal;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    display: block;
+    
+}
+.para:first-line{
+    color: brown;
+}
+
